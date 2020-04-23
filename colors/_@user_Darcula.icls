@@ -1,0 +1,29 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2020-03-26T08:00:17</property>
+    <property name="ide">Idea</property>
+    <property name="ideVersion">2019.3.4.0.0</property>
+    <property name="modified">2020-03-26T10:04:51</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="LINE_FULL_COVERAGE">
+      <value>
+        <option name="BACKGROUND" value="485848" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_NONE_COVERAGE">
+      <value>
+        <option name="BACKGROUND" value="715353" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_PARTIAL_COVERAGE">
+      <value>
+        <option name="BACKGROUND" value="80805a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
