@@ -1,0 +1,3 @@
+<templateSet group="user">
+  <template name="setup" value="@InjectMocks&#10;public void setup() {&#10;    MockitoAnnotations.initMocks(this);&#10;}" description="Setup for unit tests" toReformat="false" toShortenFQNames="true" />
+</templateSet>
