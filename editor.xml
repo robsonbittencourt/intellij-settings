@@ -8,6 +8,15 @@
   <component name="EditorSettings">
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JAVA.chain.hints" />
+        <option value="JAVA.java.implicit.types" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="JavaLens" />
+  </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
     <option name="collapseLambdas" value="false" />
