@@ -3,6 +3,7 @@
     <option id="SHOW_FUNCTION_HINT" value="true" />
     <disabledLanguages>
       <language id="JAVA" />
+      <language id="kotlin" />
     </disabledLanguages>
   </component>
 </application>
